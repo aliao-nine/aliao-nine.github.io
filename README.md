@@ -1,2 +1,2 @@
-# aliao-nine.hithub.io
+# aliao-nine.github.io
 Aliao的hexo博客
